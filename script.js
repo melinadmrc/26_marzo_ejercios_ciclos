@@ -1,9 +1,5 @@
 // FIZZBUZZ
-/*
- * Múltiplos de 3 "fizz".
- * Múltiplos de 5 "buzz".
- * Múltiplos de 3 y de 5 a la vez "fizzbuzz".
- */
+
 
 console.log("FIZZBUZZ");
 
@@ -21,10 +17,7 @@ for (let i = 1; i <= 100; i++) {
 
 
 // FIBONACCI
-/*
- * Imprimir los 50 primeros números de la sucesión de Fibonacci empezando en 0
- *  sucesión de números en la que el siguiente siempre es la suma de los dos anteriores
- */
+
 
 console.log("FIBONACCI");
 
@@ -41,10 +34,7 @@ for (let i = 1; i < 50; i++) {
 }
 
 // INVERSIÓN DE CADENAS
-/*
- * inviertir el orden de una cadena de texto
- * "Hola mundo" a "odnum aloH"
- */
+
 
 let cadena = "Hola mundo";
 let resultado = "";
