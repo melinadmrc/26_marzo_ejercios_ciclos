@@ -1,8 +1,8 @@
 // FIZZBUZZ
 /*
- * - Múltiplos de 3 "fizz".
- * - Múltiplos de 5 "buzz".
- * - Múltiplos de 3 y de 5 a la vez "fizzbuzz".
+ * Múltiplos de 3 "fizz".
+ * Múltiplos de 5 "buzz".
+ * Múltiplos de 3 y de 5 a la vez "fizzbuzz".
  */
 
 console.log("FIZZBUZZ");
@@ -42,7 +42,7 @@ for (let i = 1; i < 50; i++) {
 
 // INVERSIÓN DE CADENAS
 /*
- * Crea un programa que invierta el orden de una cadena de texto
+ * inviertir el orden de una cadena de texto
  * "Hola mundo" a "odnum aloH"
  */
 
