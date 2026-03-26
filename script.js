@@ -46,8 +46,6 @@ for (let i = 1; i < 50; i++) {
  * "Hola mundo" a "odnum aloH"
  */
 
-console.log("INVERSIÓN DE CADENAS");
-
 let cadena = "Hola mundo";
 let resultado = "";
 
